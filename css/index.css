@@ -1,0 +1,59 @@
+#avatar {
+  width: 256px;
+  height: 256px;
+  border: 0px solid #67949D;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%; }
+
+#name {
+  margin: 0.5em 0; }
+
+
+.reveal .title {
+  margin-bottom: 1.1em;font-family: "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei"; }
+
+.reveal .date {
+  color: #ccc;
+  font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-weight: 200;
+   }
+
+.imgleft {
+  height: 240px;
+  float: left; }
+
+.pfloat {
+  overflow: hidden; }
+
+.pfloat p {
+  padding-left: 20px; }
+
+.clearfix {
+  overflow: hidden; }
+
+.reveal .l1 {
+  font-size: 2em; 
+font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;}
+
+.reveal .l1 {
+  font-size: 2em; font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;}
+
+.reveal .l2 {
+  font-size: 1.5em;font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+
+.reveal .l3 {
+  font-size: 1.2em; font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;}
+
+.reveal .l4 {
+  font-size: 1em;font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+
+.reveal .l5 {
+  font-size: 0.7em; font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;}
+
+.reveal .l6 {
+  font-size: 0.5em; font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;}
+
+.reveal ul {
+  font-size: 0.7em;font-family: "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
